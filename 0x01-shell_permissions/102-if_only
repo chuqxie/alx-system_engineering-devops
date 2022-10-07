@@ -1,2 +1,2 @@
 #!/bin/bash
-if only script here
+chown --from=guillaume betty hello
